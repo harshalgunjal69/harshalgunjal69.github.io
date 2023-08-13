@@ -173,7 +173,7 @@ img {
 }
 
 .card-custom:hover .card-custom-image img {
-    transform: scale(1.19);
+    transform: scale(1.1);
 }
 
 /* CONTACT */
