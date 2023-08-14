@@ -176,6 +176,12 @@ img {
     transform: scale(1.1);
 }
 
+/* SKILLS */
+.skills-h3 {
+    display: flex;
+    align-items: center;
+}
+
 /* CONTACT */
 #contact .form-control {
     background-color: var(--color-base);
