@@ -106,7 +106,7 @@ img {
     color: var(--color-brand) !important;
 }
 
-@media (min-width: 1240px){
+@media (min-width: 1240px) {
     .navbar {
         min-height: 100vh;
         width: var(--sidebar-width);
@@ -125,7 +125,7 @@ img {
     }
 }
 
-@media (min-width:1140px) and (max-width:1240px){
+@media (min-width:1140px) and (max-width:1240px) {
     .navbar {
         min-height: 100vh;
         width: var(--sidebar-width);
@@ -144,12 +144,12 @@ img {
     }
 
     /* SKILLS */
-    .skills-custom h3{
+    .skills-custom h3 {
         font-size: 1.5rem;
     }
 }
 
-@media (min-width:992px) and (max-width:1140px){
+@media (min-width:992px) and (max-width:1140px) {
     .navbar {
         min-height: 100vh;
         width: var(--sidebar-width);
@@ -168,7 +168,7 @@ img {
     }
 
     /* SKILLS */
-    .skills-custom h3{
+    .skills-custom h3 {
         font-size: 1.2rem;
     }
 }
