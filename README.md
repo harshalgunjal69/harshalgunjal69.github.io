@@ -8,4 +8,4 @@ The following tools were used in making this website:
 2) Icon pack: Line Awesome bt=y Icons8
 3) Scrolling Animations: AOS Library
 4) Fonts: Google fonts
-<br><br>That's all . . . 🙂
+<br>That's all . . . 🙂
