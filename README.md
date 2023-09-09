@@ -9,6 +9,5 @@ The following tools were used in making this website:
 3) Scrolling Animations: AOS Library
 4) Fonts: Google fonts
 
-<br>
-<br>
+<br><br>
 That's all . . . 🙂
