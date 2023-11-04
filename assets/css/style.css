@@ -11,6 +11,9 @@
     --font-base: "Bai Jamjuree";
 }
 
+* {
+    scroll-behavior: smooth;
+}
 
 body {
     background-color: var(--color-base2);
